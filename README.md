@@ -4,7 +4,7 @@ In this Superstore Sales SQL Data Analysis project, an exploratory data analysis
 
 The link to the original dataset on Kaggle: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
-Link to my full Medium article and analysis on the Superstore Data: https://medium.com/@michelnguegang/superstore-sales-analysis-demonstration-d3c1c1bc907
+**Link to my full Medium article and analysis on the Superstore Data: https://medium.com/@michelnguegang/superstore-sales-analysis-demonstration-d3c1c1bc907**
 
 If there is mainly an interest in the yearly (timeline) data on profits, categories, sub categories, segments and products, then below you will find the direct link to the dashboard: https://10az.online.tableau.com/t/micheltableau/views/SalesDataAnalysis-YearlyFocus2/SalesDataAnalysis-YearlyFocusDashboard?:origin=card_share_link&:embed=n
 
